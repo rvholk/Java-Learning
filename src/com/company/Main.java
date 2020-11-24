@@ -1,7 +1,7 @@
 package com.company;
 
 
-import static com.company.random_with_range.*;
+import static com.company.random_within_range.*;
 
 public class Main {
 

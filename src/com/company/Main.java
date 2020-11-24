@@ -10,7 +10,7 @@ public class Main {
         double y = 0.00;
 
         while(x < 1000) {
-            int number = random_with_range.Random(1, 99);
+            int number = Random(1, 99);
             if (number < 4) {
                 System.out.println("smaller than 4");
                 y += 1;
